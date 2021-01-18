@@ -24,7 +24,7 @@ print "+-------------------------------------------------------------+"
 print
 print "-       Cisco Unified Computing System Manager CGI RCE "
 print
-print "          Cisco UCS Manager - 2.2(1d) - CVE-2015-6435"
+print "          Cisco UCS Manager - 2.2(1d)"
 print
 print "-   PoC by: LiquidSky - 1/15/21  |  CISCO-BUG-ID:  CSCur90888   "
 print
