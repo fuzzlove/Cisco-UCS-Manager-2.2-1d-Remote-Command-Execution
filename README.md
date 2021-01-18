@@ -1,4 +1,4 @@
-# Cisco-UCS-Manager-2.2-1d-Remote-Command-Execution - CVE-2015-6435
+# Cisco-UCS-Manager-2.2-1d-Remote-Command-Execution - Cisco Bug: CSCur90888
 
 
 - Exploit Title         : Cisco UCS Manager - 2.2(1d) - Remote Command Execution
@@ -11,8 +11,6 @@
 - Cisco Reference       : https://quickview.cloudapps.cisco.com/quickview/bug/CSCur90888
 - Tested On             : Cisco UCS Manager - 2.2(1d) (Exploit ran with Debian 5.6.7-1kali1 (Kali 2020.1 x64))
 - Author Site           : https://github.com/fuzzlove/Cisco-UCS-Manager-2.2-1d-Remote-Command-Execution
-- Demo                  : https://youtu.be/bZAcJrwPEb0
-- CVE                   : CVE-2015-6435 | https://nvd.nist.gov/vuln/detail/CVE-2015-6435
 - Special Notes         : This application by default uses outdated TLS 1.0 for communication, so thats why there is a quickfix/temporary patch to 1.0 in openssl utilizing 'sed' (that gets changes back after exploitation).
 
 - Greetz: wetw0rk, Fr13ndz, O.G.Xx25, MS, SS, JK, the S3 family, and last but NOT least droppunx ^_~
